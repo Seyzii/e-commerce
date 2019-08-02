@@ -1,0 +1,1 @@
+<i class="material-icons closemenu">&#xE14C;</i>
